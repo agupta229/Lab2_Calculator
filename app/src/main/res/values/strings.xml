@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab2_Calculator</string>
+    <string name="header">Calculator</string>
+    <string name="userText1">Enter First Number</string>
+    <string name="userText2">Enter Second Number</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">x</string>
+    <string name="divide">/</string>
+</resources>
